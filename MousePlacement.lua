@@ -31,7 +31,7 @@ local Window = Rayfield:CreateWindow({
     LoadingTitle = "Basic Aim Script",
     LoadingSubtitle = "made possible by Rayfield",
     ConfigurationSaving = {
-       Enabled = true,
+       Enabled = false,
        FolderName = nil, -- Create a custom folder for your hub/game
        FileName = "Big Hub"
     },
